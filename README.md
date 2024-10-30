@@ -1,0 +1,2 @@
+# Pr_7_oct_Python_Funciones_Alfaro_Ibarra_1171
+Practica de funciones
